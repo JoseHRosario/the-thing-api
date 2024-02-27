@@ -1,0 +1,6 @@
+
+
+GET {{Api_HostAddress}}/niche/
+Accept: application/json
+
+###
