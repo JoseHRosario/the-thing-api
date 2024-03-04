@@ -2,5 +2,6 @@
 
 GET {{Api_HostAddress}}/niche/
 Accept: application/json
+x-google-idtoken:{{Google_IdToken}}
 
 ###
