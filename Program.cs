@@ -1,4 +1,5 @@
 using TheThingApi.Configuration;
+using TheThingApi.Middleware;
 using TheThingApi.Services;
 
 internal class Program
